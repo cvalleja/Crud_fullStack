@@ -1,0 +1,13 @@
+#contBtnRegistrar {
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+table tr, th, td{
+    margin-top: 50px;
+    border: 1px #0D6EFD solid;
+}
